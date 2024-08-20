@@ -78,11 +78,11 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&trans     &trans    &trans  &trans    &trans      &trans                           &trans     &trans     &trans     &trans    &trans    &trans
-&trans     &trans    &trans  &trans    &trans      &trans                           &trans     &trans     &trans     &trans    &trans    &trans
-&kp GRAVE  &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PRCNT                        &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp TILDE
-&trans     &trans    &trans  &trans    &trans      &trans     &trans    &trans      &trans     &kp MINUS  &kp PLUS   &kp LBRC  &kp RBRC  &kp PIPE
-                             &trans    &trans      &trans     &trans    &kp K_MENU  &trans     &trans     &trans
+&trans     &trans    &trans  &trans    &trans      &trans                                  &trans     &trans     &trans     &trans    &trans    &trans
+&trans     &trans    &trans  &trans    &trans      &trans                                  &trans     &trans     &trans     &trans    &trans    &trans
+&kp GRAVE  &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PRCNT                               &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp TILDE
+&trans     &trans    &trans  &trans    &trans      &trans     &trans    &trans             &trans     &kp MINUS  &kp PLUS   &kp LBRC  &kp RBRC  &kp PIPE
+                             &trans    &trans      &trans     &trans    &kp K_APPLICATION  &trans     &trans     &trans
             >;
         };
 
